@@ -1,0 +1,142 @@
+﻿cohort,subject,sex,genotype,phase,distance,time_immobility
+1,5235,M,Mutants,FAH,28.735,108
+1,5239,F,Mutants,FAH,28.4,141.2
+1,5243,M,Mutants,FAH,29.172,124.6
+1,5246,F,Mutants,FAH,25.447,135.4
+1,5247,F,Mutants,FAH,26.805,157.9
+1,5267,F,Mutants,FAH,22.896,204.4
+2,5277,M,Cre (-) Control,FAH,23.842,194.9
+2,5278,M,Cre (-) Control,FAH,28.613,163.3
+1,5281,F,Cre (+) Control,FAH,23.047,184.3
+1,5282,M,Cre (+) Control,FAH,23.557,153.8
+1,5284,M,Cre (+) Control,FAH,27.194,148.7
+1,5285,M,Cre (-) Control,FAH,24.291,184.1
+1,5286,F,Cre (-) Control,FAH,23.516,170.4
+1,5287,F,Cre (-) Control,FAH,25.022,160.9
+1,5288,F,Cre (+) Control,FAH,27.212,170
+1,5289,F,Cre (-) Control,FAH,27.597,180.3
+2,5290,M,Cre (+) Control,FAH,26.573,148.6
+2,5291,M,Cre (+) Control,FAH,24.251,163.9
+2,5292,F,Cre (-) Control,FAH,20.026,216.6
+2,5295,M,Mutants,FAH,28.505,110.4
+2,5314,M,Mutants,FAH,23.085,167.8
+2,5315,M,Mutants,FAH,31.186,172.1
+2,5317,F,Mutants,FAH,24.732,201.3
+2,5319,F,Mutants,FAH,27.468,120.1
+2,5325,M,Mutants,FAH,23.354,145.7
+2,5329,F,Mutants,FAH,33.974,100.1
+2,5331,F,Mutants,FAH,41.221,96.2
+2,5332,F,Mutants,FAH,30.121,121.2
+3,5440,F,Mutants,FAH,37.47,57.6
+3,5459,M,Mutants,FAH,30.96,102.6
+3,5461,M,Mutants,FAH,29.808,144.6
+3,5462,M,Mutants,FAH,24.102,164.2
+3,5465,F,Mutants,FAH,27.984,145.6
+3,5470,F,Mutants,FAH,37.46,112.2
+3,5488,M,Cre (+) Control,FAH,29.144,113.3
+3,5489,M,Cre (-) Control,FAH,35.294,123.8
+4,5643,M,Cre (-) Control,FAH,20.906,145.1
+4,5665,M,Mutants,FAH,29.04,118.2
+4,5666,M,Mutants,FAH,36.246,93.7
+4,5668,M,Mutants,FAH,31.032,123.8
+4,5720,M,Cre (+) Control,FAH,24.728,202.2
+4,5733,M,Cre (+) Control,FAH,33.953,124.2
+4,5734,M,Cre (+) Control,FAH,34.78,146.4
+4,5735,F,Cre (+) Control,FAH,32.238,128.6
+4,5736,F,Cre (+) Control,FAH,29.268,111.2
+4,5737,F,Cre (+) Control,FAH,27.604,173.7
+4,5738,F,Cre (+) Control,FAH,35.585,161.3
+1,5235,M,Mutants,INT,23.104,177.8
+1,5239,F,Mutants,INT,23.559,149.3
+1,5243,M,Mutants,INT,24.076,229.8
+1,5246,F,Mutants,INT,23.216,202.3
+1,5247,F,Mutants,INT,18.028,241.7
+1,5267,F,Mutants,INT,17.632,264.2
+2,5277,M,Cre (-) Control,INT,21.198,197.9
+2,5278,M,Cre (-) Control,INT,24.24,202.5
+1,5281,F,Cre (+) Control,INT,19.593,259
+1,5282,M,Cre (+) Control,INT,22.723,202.7
+1,5284,M,Cre (+) Control,INT,21.168,177.2
+1,5285,M,Cre (-) Control,INT,19.913,233.4
+1,5286,F,Cre (-) Control,INT,14.116,293.2
+1,5287,F,Cre (-) Control,INT,18.705,198.5
+1,5288,F,Cre (+) Control,INT,19.689,247.2
+1,5289,F,Cre (-) Control,INT,25.053,197
+2,5290,M,Cre (+) Control,INT,24.076,187.5
+2,5291,M,Cre (+) Control,INT,24.146,182.9
+2,5292,F,Cre (-) Control,INT,21.989,238.8
+2,5295,M,Mutants,INT,26.993,147.1
+2,5314,M,Mutants,INT,20.93,214.7
+2,5315,M,Mutants,INT,24.921,202.5
+2,5317,F,Mutants,INT,21.553,217
+2,5319,F,Mutants,INT,22.208,200.9
+2,5325,M,Mutants,INT,26.248,149.6
+2,5329,F,Mutants,INT,28.455,148
+2,5331,F,Mutants,INT,36.728,93.2
+2,5332,F,Mutants,INT,29.187,108.3
+3,5440,F,Mutants,INT,31.326,85.9
+3,5459,M,Mutants,INT,24.257,198
+3,5461,M,Mutants,INT,23.169,186.3
+3,5462,M,Mutants,INT,21.156,177.6
+3,5465,F,Mutants,INT,26.704,154.9
+3,5470,F,Mutants,INT,26.528,191.1
+3,5488,M,Cre (+) Control,INT,15.97,274.5
+3,5489,M,Cre (-) Control,INT,23.509,201.1
+4,5643,M,Cre (-) Control,INT,19.763,259
+4,5665,M,Mutants,INT,29.044,155.4
+4,5666,M,Mutants,INT,26.113,177.2
+4,5668,M,Mutants,INT,22.067,217.5
+4,5720,M,Cre (+) Control,INT,20.001,239.6
+4,5733,M,Cre (+) Control,INT,27.595,189.7
+4,5734,M,Cre (+) Control,INT,30.442,147.7
+4,5735,F,Cre (+) Control,INT,26.623,142.6
+4,5736,F,Cre (+) Control,INT,26.281,170.6
+4,5737,F,Cre (+) Control,INT,23.232,264.4
+4,5738,F,Cre (+) Control,INT,30.519,134.2
+1,5235,M,Mutants,MEM,19.028,225.2
+1,5239,F,Mutants,MEM,15.277,243.6
+1,5243,M,Mutants,MEM,21.545,199.2
+1,5246,F,Mutants,MEM,14.189,262.3
+1,5247,F,Mutants,MEM,17.262,282.4
+1,5267,F,Mutants,MEM,17.726,233
+2,5277,M,Cre (-) Control,MEM,14.429,274.7
+2,5278,M,Cre (-) Control,MEM,22.22,213.4
+1,5281,F,Cre (+) Control,MEM,15.872,257.6
+1,5282,M,Cre (+) Control,MEM,15.427,287
+1,5284,M,Cre (+) Control,MEM,17.692,226.3
+1,5285,M,Cre (-) Control,MEM,16.576,303.4
+1,5286,F,Cre (-) Control,MEM,11.921,348.9
+1,5287,F,Cre (-) Control,MEM,18.22,198.8
+1,5288,F,Cre (+) Control,MEM,19.108,228.9
+1,5289,F,Cre (-) Control,MEM,16.739,264.4
+2,5290,M,Cre (+) Control,MEM,16.961,247.2
+2,5291,M,Cre (+) Control,MEM,17.972,248
+2,5292,F,Cre (-) Control,MEM,17.772,224
+2,5295,M,Mutants,MEM,14.975,206.9
+2,5314,M,Mutants,MEM,14.508,240.2
+2,5315,M,Mutants,MEM,16.847,181.1
+2,5317,F,Mutants,MEM,15.178,235.1
+2,5319,F,Mutants,MEM,14.56,269.8
+2,5325,M,Mutants,MEM,14.019,275.7
+2,5329,F,Mutants,MEM,20.747,227.6
+2,5331,F,Mutants,MEM,22.163,197.2
+2,5332,F,Mutants,MEM,20.616,191.8
+3,5440,F,Mutants,MEM,15.775,239.6
+3,5459,M,Mutants,MEM,14.754,280.5
+3,5461,M,Mutants,MEM,18.264,224.1
+3,5462,M,Mutants,MEM,11.305,347.6
+3,5465,F,Mutants,MEM,15.169,282.6
+3,5470,F,Mutants,MEM,15.599,250.8
+3,5488,M,Cre (+) Control,MEM,14.014,313.6
+3,5489,M,Cre (-) Control,MEM,13.995,327
+4,5643,M,Cre (-) Control,MEM,20.562,241.3
+4,5665,M,Mutants,MEM,17.23,243.1
+4,5666,M,Mutants,MEM,22.231,203.2
+4,5668,M,Mutants,MEM,15.203,274.9
+4,5720,M,Cre (+) Control,MEM,16.797,258.3
+4,5733,M,Cre (+) Control,MEM,21.136,206.6
+4,5734,M,Cre (+) Control,MEM,27.127,182.1
+4,5735,F,Cre (+) Control,MEM,19.259,235.4
+4,5736,F,Cre (+) Control,MEM,18.401,258.5
+4,5737,F,Cre (+) Control,MEM,20.786,210.6
+4,5738,F,Cre (+) Control,MEM,22.407,227.2
