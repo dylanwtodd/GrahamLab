@@ -1,0 +1,4 @@
+- Fly's have polytene chromosomes in the salivary glands with distinctive, high-resolution banding patterns which aided initial mapping efforts.
+- Each major chromosome arm is divided into 20 numbered segments: 1-20:X, 21-40:2L, 41-60:2R, 61-80:3L, and 81-100:3R
+- Centromere for each chromosome is 20:X, 40-41:2, 80-81:3, and 104:4.
+- [[Fly Pushing]]

@@ -1,0 +1,7 @@
+- H. J. Muller invented the idea of balancers.
+- Basic principle is multiple inverted chromosomes that are highly unlikely to undergo exchange with their normal homologs.
+- Allows for confident tracing of invisible recessive chromosomes especially if the balancer carries a marker.
+- Many balancers exist for the X, 2, and 3rd chromosomes.
+- There is no exchange on the 4 chromosome
+- Balancers are usually named with a letter for their chromosome (F:x, S f:second, and T:third, and M:multiply inverted) and sometimes followed by the genetic symptol for the principal markers carried by that balancer.
+- [[Fly Pushing]]

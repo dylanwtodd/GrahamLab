@@ -1,0 +1,8 @@
+- Genotype of a chromosome is indicated only if there is a mutation or variant on it
+- Chromosomes are always listed in the order X/Y, 2, 3, and 4.
+- Fly genotypes are always italized
+- Mutant names are mostly abbreviated with three or fewer letters
+- Lowercase abbreviations indicate recessive phenotypes and uppercase indicate dominants.
+- Semicolons separate chromosomes.
+- Heterozygosity is denoted by a two-line genotype
+- Sometimes a dominant trait is denoted by a superscript D (likely due to loci originally defined by a recessive mutation, but dominant allele was found later)

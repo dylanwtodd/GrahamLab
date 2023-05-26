@@ -1,0 +1,1 @@
+- Any recessive marker mutation that is homozygous in the stock from which females comes and which will not be homozygous in the intended cross.

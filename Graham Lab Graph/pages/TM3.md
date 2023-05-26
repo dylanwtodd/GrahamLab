@@ -1,0 +1,1 @@
+- Balancer for Chr 3 containing wild type yellow, and recessive radius incompletus (ri) pink peach (p^p), sepia (sep), bithorax (bx^34e), and ebony (e).

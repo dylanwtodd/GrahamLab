@@ -1,0 +1,7 @@
+- Mutant phenotypes can be used to mark the presence or absence of certain chromosomes
+- There is a broad range of mutant phenotype penetrance and expressivity
+- Lindsley and Zimm have ranked mutations with RK1 category showing the highest consistency.
+- When selecting negatively a higher RK category is important
+- Important to know what a double mutant phenotype is when both mutations effect the same phenotype, e.g. bristle
+- [[Fly Pushing]]
+-

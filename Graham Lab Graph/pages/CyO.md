@@ -1,0 +1,1 @@
+- Balancer of chromosome 2 also referred to as 'Curly of Oster' carries the dominant marker Curly (Cy) as well as recessives dumpy (dp) cinnabar (cn), and speck (sp)

@@ -1,0 +1,4 @@
+- Enhanced yellow fluorescent protein
+- Genetic mutant of GFP
+- Excitation peak is 513 nm; emission peak is 527 nm
+- #Fluorophore

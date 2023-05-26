@@ -1,0 +1,1 @@
+- Balancer chromosome for Chr3 containing dominants Henna (Hn^P), Ultrabithorax (Ubx^P15), recessive spineless (ss^P88), bithorax (bx34e), and ebony (e).

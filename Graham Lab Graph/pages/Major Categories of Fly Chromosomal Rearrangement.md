@@ -1,0 +1,6 @@
+- **Inversions**: two breakage and repair events in the same chromosome resulting in inverted segment: (symbolized by parentheses)
+- **Translocations**: in which breakage events have occurred in two different chromosomes and repaired so that the pieces are swapped
+- **Compound chromosomes**: two left or two right arms have become attached to the same centromere
+- **Deficiencies (deletions)**: two breaks have occurred in the same chromosome and repair event has exclude the excised piece
+- **Duplications**: excised piece is inserted into another chromosome
+- [[Fly Pushing]]

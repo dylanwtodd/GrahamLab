@@ -1,0 +1,2 @@
+- Spaghetti squash encodes the regulatory light chain of the nonmuscle type 2 myosin.
+- Ubiquitously expressed gene

@@ -1,0 +1,3 @@
+- Homologous chromosomes segregate from each other reliably during meiosis
+- Dominant markers and balancers for each of the chromosomes indicate the homolog from each parent that the progeny received
+- There is no recombination in males and balancer chromosomes effectively suppress recombination with its homolog in females.

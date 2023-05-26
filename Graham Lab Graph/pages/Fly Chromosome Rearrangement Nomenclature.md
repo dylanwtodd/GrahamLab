@@ -1,0 +1,9 @@
+- Many times stocks are kept so that both male and females carry a Y to ensure that all males will have proper sperm motility. Presence of a Y has no effect on sex determination [[Fly Sex Genetic Determination]]
+- In > Inversion
+- Df > deletion/deficiency
+- T(1;4) > translocation between first and fourth chromosome
+- Tp(3;1) > transposition of a piece of the third chromosome into the X
+- R(1) > ring X e.g. an X chromosome with no free end
+- C(1)RM > C(1):compound of the first chromosome and RM:reverse metacentric; common shorthand for C(1) is XX (with circumflex over both Xs) or attached-X; essentially both natural homologue are on the same chromosome.
+- F(2L) > "free" left arm
+- [[Fly Pushing]]

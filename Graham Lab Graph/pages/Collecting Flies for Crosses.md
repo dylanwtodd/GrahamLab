@@ -1,0 +1,4 @@
+- Must start with virgin females based on their appearance or [[Virginity Marker]]
+- Female flies will not mate within the first 8 hours of emergence; best strategy is to collect flies twice a day.
+- A dark spot on the abdomen representing meconium can be useful in identifying newly emerged adults.
+- [[Fly Pushing]]

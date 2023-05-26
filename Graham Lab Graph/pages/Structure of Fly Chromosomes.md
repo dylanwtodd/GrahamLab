@@ -1,0 +1,3 @@
+- Four pairs of chromosomes
+- X and 4th chromosome traditionally shown without an arm right of the centromere.
+- [[Fly Pushing]]

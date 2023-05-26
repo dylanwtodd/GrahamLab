@@ -1,0 +1,3 @@
+- Based on ratio of X chromosomes to autosomal sets: male ratio is 0.5 and female ratio is 1.0
+- Y chromosome contains few genes and is not needed for male development; some contribution on sperm motility.
+- [[Fly Pushing]]

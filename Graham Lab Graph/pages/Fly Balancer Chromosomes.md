@@ -1,0 +1,3 @@
+- Chromosomes with a scrambled sequence that cannot pair or recombine with normal homolog during meiotic prophase.
+- Allows tracking of chromosomes to progeny: progeny can only get the balancer or homologue.
+- [[Fly Pushing]]

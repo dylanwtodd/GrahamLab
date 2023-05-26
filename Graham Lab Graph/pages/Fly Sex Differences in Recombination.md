@@ -1,0 +1,2 @@
+- Most important part of fly genetics is the total absence of recombination in males.
+- [[Fly Pushing]]
